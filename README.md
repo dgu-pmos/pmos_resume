@@ -29,28 +29,27 @@
    - Git : 소스 버젼관리
 
 ### 팀 프로젝트
-#### Modi(Luxrobo)
-- [MODI STUDIO](https://modi.luxrobo.com/download/download.php)
-  - 담당: Electron(Node.js)에서 파일 입출력, 코드 블럭 UI 개발
-  - 기술스택: Electron, Node.js, HTML, SASS, cross-platform
-  - 기간: 2016/07 ~ 2016/08 (프로젝트 전체 기간이 아닌 제가 참여한 기간)
+#### Secretary.mo
+- [Secretary.mo](https://github.com/dgu-pmos/secretary_mo)
+  - 기술스택: Django, SQLite, HTML, CSS
+  - 기간: 2019/07 ~ 2019/08
   - 인원: 4명
   - 설명
-    - Modi 블록을 컨트롤하기 위한 GUI 형태의 코딩 프로그램 개발
-    - Electron으로 cross-platform 지원 개발
-    - 기여도 측정 어려움. 다만 당시 크로스플래폼으로 파일 입출력이 가능하도록 함수 제작, 디자이너와 코드 블럭 UI 협업 개발
+    - 회원 관리 기능(로그인, 회원가입)
+    - 방 모니터링 기능(모션 센서, 온습도 센서, Arduino NUO, WiFi 모듈 사용)
+    - 한 줄 메모 기능, 작성 위치의 날씨 및 도로명 주소 기록(Geolocation API, Openwheather API, KAKAO API 사용)
+    - 간편한 가계부 기능
    
 ### 개인프로젝트 (기여도 100%)
-#### Modi(Luxrobo)
-- [MODI STUDIO](https://modi.luxrobo.com/download/download.php)
-  - 담당: Electron(Node.js)에서 파일 입출력, 코드 블럭 UI 개발
-  - 기술스택: Electron, Node.js, HTML, SASS, cross-platform
-  - 기간: 2016/07 ~ 2016/08 (프로젝트 전체 기간이 아닌 제가 참여한 기간)
-  - 인원: 4명
+#### Secretary.mo
+- [Secretary.mo](https://github.com/dgu-pmos/secretary_mo)
+  - 기술스택: Django, SQLite, HTML, CSS
+  - 기간: 2019/07 ~ 2019/08
   - 설명
-    - Modi 블록을 컨트롤하기 위한 GUI 형태의 코딩 프로그램 개발
-    - Electron으로 cross-platform 지원 개발
-    - 기여도 측정 어려움. 다만 당시 크로스플래폼으로 파일 입출력이 가능하도록 함수 제작, 디자이너와 코드 블럭 UI 협업 개발
+    - 회원 관리 기능(로그인, 회원가입)
+    - 방 모니터링 기능(모션 센서, 온습도 센서, Arduino NUO, WiFi 모듈 사용)
+    - 한 줄 메모 기능, 작성 위치의 날씨 및 도로명 주소 기록(Geolocation API, Openwheather API, KAKAO API 사용)
+    - 간편한 가계부 기능
 
 ### 경험
 - 혁신성장 청년인재 집중육성사업 '클라우드 서비스 개발 전문가 과정' 이수 중
